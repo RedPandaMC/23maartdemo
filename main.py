@@ -11,3 +11,4 @@ def som(a:int,b:int):
 
 print("hallo wereld!")
     
+print("hallo wereld!")
