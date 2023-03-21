@@ -10,5 +10,4 @@ def som(a:int,b:int):
     return a + b
 
 print("hallo wereld!")
-    
 print("hallo wereld!")
