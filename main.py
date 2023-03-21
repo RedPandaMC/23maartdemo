@@ -1,3 +1,5 @@
+import rich
+
 #cock??
 """this code is a test"""
 def som(a:int,b:int):
@@ -6,4 +8,6 @@ def som(a:int,b:int):
     returns de som van deze twee integers
     """
     return a + b
+
+print("hallo wereld!")
     
